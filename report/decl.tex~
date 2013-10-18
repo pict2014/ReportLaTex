@@ -1,0 +1,32 @@
+\thispagestyle{plain} 
+\begin{center}
+
+
+\includegraphics[scale=0.3]{../img/logo} \\[2mm]
+
+{\textsc{Information Technology}}  \\[5mm]
+{\textit{Certificate}} \\[5mm]
+\end{center} 
+
+This is to certify that,
+\begin{center} 
+
+\begin{tabular}{c} 
+MOUSUMI SAHA\\
+NATASHA GANDHI\\
+MANALI JOSHI\\
+NEHARIKA MAZUMDAR\\
+\end{tabular} 
+\vspace*{10mm} 
+\end{center} 
+
+have successfully completed this project report entitled  “AUTOMATIC NUMBER PLATE RECOGNITION”, under my guidance in partial fulfillment of the requirements for the degree of Bachelor of Engineering in Department of Information Technology of University of Pune during the academic year 2013-14. 
+\vspace*{20mm}
+
+Date:\\
+\hspace{5mm}Place:
+\vspace*{40mm} 
+
+Prof. Bhavna Sarode    \hspace*{50mm}Prof. S.D. Deshpande\\
+Project Guide          \hspace*{70mm}  HOD
+

@@ -1,0 +1,19 @@
+\chapter{Introduction}
+%\thispagestyle{plain} 
+
+\section{Need} 
+The Automatic Number Plate Recognition(ANPR)application incorporates the functions of reading automatically the registration number (license number) of vehicles from digital pictures of any type of sources and video management systems. Its primary purpose is to extract Number Plate information details and use a proprietary database to look up any registration numbers and display the information available and to automate the process of  handling road rules violation.
+
+\section{Basic Concepts} 
+\begin{itemize}
+\item Image Pre-processing
+\item Plate localisation
+\item Plate orientation and sizing
+\item Normalization
+\item Character segmentation
+\item Optical character recognition(OCR)using Neural Network.
+\end{itemize}
+
+\section{Application}
+This system will cover following applications:Traffic Rule breaking such as One way ,	No Parking zone,	Signal Breaking,Detection of Insurance of vehicles,Stolen vehicle detection.
+

@@ -1,0 +1,56 @@
+\chapter{Survey} 
+\thispagestyle{plain} 
+\section{Literature Survey}
+ 
+Under literature survey we have referred the following IEEE papers:
+\subsection{ IEEE 2009}	Ashish Khatri, Prateek Banga, University of Pune, IEEE 2009, ”Automatic Number Plate Recognition (ANPR) System for Indian conditions”.
+
+Techniques used:Pre–processing and Plate Localization, Character segmentation, Pre recognition, Syntax checking.
+Conclusions: The system works satisfactorily for wide variations in illumination conditions and different types of number plates commonly found in India. It is definitely a better alternative to the existing manual systems in India.
+
+\subsection{ IEEE 2011}	Fajas F, Farhan Yousuf , Cochin University of Science and Technology, Cochin
+Optical Image Processing Team, Centre for Development of Imaging Technology,     Thiruvananthapuram, IEEE 2012” Automatic Number Plate Recognition for Indian Standard Number Plates”
+
+Techniques used: Plate Localization, Character segmentation, Neural Networks for OCR, MATLAB.
+Conclusions: A simple and efficient system has been developed to localize the number plates from the image of a captured vehicle containing Indian standard number plate .A neural network based character recognition system has been implemented to identify all the characters that can be found in an Indian standard number plate.
+
+
+
+
+\section{Market Survey} 
+Under market survey we have gathered information and requirements for the project from various departments such as
+\begin{itemize}
+\item Traffic Branch, Pune
+\item Traffic Management and Monitoring Centre , Pune
+\item RTO
+\end{itemize}
+
+
+\subsection{RTO} 
+\begin{itemize}
+\item	Required data fields concerning no. plates and license details.
+\item	Road rules and regulations
+\item	Rule violation fees/rates.
+\end{itemize}
+
+\subsection{Traffic Branch} 
+\begin{itemize} 
+\item	Regarding official website of traffic department of Pune
+\item	Problems faced by the department in handling and managing discipline in traffic.
+\end{itemize}
+
+\subsection{PMPML} 
+
+Introduction to ITS(Intelligent Traffic System) 
+\begin{itemize}
+\item	Covers areas like ATCS(Area traffic control System), RVDS(Red-light Violation Detection System),SVDS(Speed Violation Detection System),etc.
+\item	They have 60 junctions over the city each having 1 Flash, 1 video camera and a separate camera for capturing images.
+\item	After violation of rules, challans are generated which covers these fields: No. plate image, Vehicle no, engine no, chassis no, vehicle type, offence code, date and time and amount charged.
+\item	Challans are sent by couriers or post.
+\item	If not paid within 15 days, SMSs are sent to the users reminding of Payment.
+\end{itemize}
+
+
+
+
+

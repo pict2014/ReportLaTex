@@ -1,0 +1,54 @@
+\chapter{Design} 
+\thispagestyle{plain} 
+
+\section{DFD}
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/DFD} \\[10mm]
+\caption{Data Flow Diagram} \label{fig:DFD}
+\end{figure} 
+\vspace*{10mm}
+\section{UML Diagram} 
+
+\begin{center}
+
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/usecase} \\[5mm]
+\caption{Use case Diagram} \label{fig:usecase}
+\end{figure} 
+
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/class}  \\[5mm]
+\caption{Class Diagram} \label{fig:class}
+\end{figure} 
+
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/package} \\[5mm]
+\caption{Package Diagram} \label{fig:package}
+\end{figure} 
+
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/sequence} \\[5mm]
+\caption{Sequence Diagram} \label{fig:sequence} 
+\end{figure} 
+
+\begin{figure}[!h]
+\includegraphics[scale=0.6]{../img/state} \\[5mm]
+\caption{State Chart Diagram} \label{fig:state} 
+\end{figure} 
+
+\begin{figure}[!h]
+\includegraphics[scale=0.5]{../img/activity} \\[5mm]
+\caption{Activity Diagram} \label{fig:activity} 
+\end{figure}
+
+\begin{figure}[!h]
+\includegraphics[scale=0.4]{../img/component} \\[5mm]
+\caption{Component Diagram} \label{fig:component} 
+\end{figure}
+
+\begin{figure}[!h]
+\includegraphics[scale=0.6]{../img/deployment} \\[5mm]
+\caption{Deployment Diagram} \label{fig:deployment}
+\end{figure}
+
+\end{center} 

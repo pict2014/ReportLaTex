@@ -1,0 +1,43 @@
+\chapter{Planning and Scheduling} 
+\thispagestyle{plain} 
+\section{Subdivision of tasks} 
+
+Arranged according to priority of tasks
+•	Vehicle Number Plate Extraction using Image Processing.
+•	User Interface designing (Web Application).
+•	Database Management.
+•	Challan generation and sending it through email and SMS notifications.
+
+
+\section{Scheduling} 
+\begin{table}[!h]
+\centering
+\caption{Project Plan} \label{tbl:Project Plan}
+\end{table}
+
+
+\centering
+\begin{tabular}{|l|r|c|}
+
+\hline
+\textbf{Month}&\textbf{Required Things to Do}&\textbf{SDLC Phases}\\
+\hline
+August-September’13&equirements Gathering&Communication Phase\\
+\hline
+September’13&Estimation and Scheduling of \\&project execution&Planning Phase\\
+\hline
+October-November’13&UML diagrams, Design documents&Modeling Phase\\
+\hline
+November(end)’13&Data Design&Design Phase\\
+\hline
+December-January’14&Coding&Construction Phase\\
+\hline
+March’14&Project completion&Deployment Phase\\
+\hline
+
+
+
+\end{tabular}
+
+
+

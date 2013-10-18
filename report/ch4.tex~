@@ -1,0 +1,60 @@
+\chapter{System Requirement and Specification} 
+\thispagestyle{plain} 
+
+\section{Product Features} 
+The features of the system fall into 6 main divisions: Capturing, Extracting, search,display from database, generation of challans and sending them.\\
+
+The system constantly monitors each of ANPR video/image input to locate any number plates in the cameras range.
+The image processing results in extraction of vehicle number from the image which is matched with the number stored in the database to get the vehicle owner details and send appropriate message to owner via an SMS gateway. 
+
+\section{Software and Hardware requirements} 
+
+\begin{itemize}
+\item Windows XP/2007/8 operating System\\
+\item Web Domain(PHP/DOT NET)\\
+\item Image processing(USING JAVA/MATLAB)\\
+\item Database(oracle 10g/ SQL server)\\
+\item Still image from memory or file (BMP,JPEG) as well as live analogue video input.
+\end{itemize}
+
+
+
+
+\section{Functional Requirements} 
+
+\subsection{Number Plate and overview image logging}
+The system saves to the database the precise date and time
+stamp, Vehicle Plate Number and the camera number and location, plus images of the relevant vehicle and its number plate “patch”.
+
+\subsection{Lookup Database search and display}
+1-Store number plate and overview image as a jpeg file in the repository.
+2-Provide methods to search across database.
+3-Allow updates to be made to digital database.
+
+\subsection{Browse and Search}
+Search results are presented promptly to the user as an on-screen list. Selection of a record immediately shows up full details for the user,including the number plate patch and vehicle images, information from the database about the registered user and the vehicles type and other details.  Records in the log, database entities, vehicle or plate-patch images and search lists can all be printed.
+
+\subsection{Database Editing} 
+Database editing should require a second level of authentication and tracks of amendments made should audit able.
+
+\subsection{Secure Design}
+The system must have a built-in configurable password protected access, plus audit trails to track software usage.
+
+\section{Non-functional requirements} 
+
+\subsection{Understandability} 
+Application code and comments would be written descriptively. The names of classes,methods and variables would be self-descriptive. Methods and classes will be
+commented to detail their purpose.
+
+
+\subsection{Conciseness, Consistency and Efficiency}
+Application code will be reviewed regularly to remove redundancy, reduce complexity and increase efficiency.
+
+\subsection{Portability } 
+Testing across multiple platforms (Windows 7, Vista, XP, 2003, 2000) and implementations should ensure that code and external libraries are not platform or implementation-dependent.
+
+\subsection{Maintainability} 
+Classes will be abstract enough to facilitate changes in data structures. Class and function modularity would be implemented to avoid the need for major re factoring.
+
+\subsection{Reliability} 
+Checked exception handling is highly recommended. Extensive testing is also required.
